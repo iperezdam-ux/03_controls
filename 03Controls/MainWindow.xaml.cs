@@ -23,12 +23,13 @@ namespace _03Controls
         public MainWindow()
         {
             InitializeComponent();
+            
             Grid elMeuGrid = new Grid();
                 this.Content = elMeuGrid;
                 elMeuGrid.Background = Brushes.HotPink;
 
             Button btn = new Button();
-                btn.Width = 100;
+                btn.Width = 300;
                 btn.Height = 50;
                 btn.Background = Brushes.LightYellow;
                 elMeuGrid.Children.Add(btn);
@@ -50,11 +51,16 @@ namespace _03Controls
                 txt3.Text = "!";
                 wrapPanel.Children.Add(txt3);
                 txt3.Foreground = Brushes.Green;
-                
 
-            
-           
-            
+            TextBlock txt5 = new TextBlock();
+            txt5.Text = "Ivan";
+            wrapPanel.Children.Add(txt5);
+            txt5.Foreground = Brushes.Green;
+
+
+
+
+
 
 
         }

@@ -23,6 +23,40 @@ namespace _03Controls
         public MainWindow()
         {
             InitializeComponent();
+            Grid elMeuGrid = new Grid();
+                this.Content = elMeuGrid;
+                elMeuGrid.Background = Brushes.HotPink;
+
+            Button btn = new Button();
+                btn.Width = 100;
+                btn.Height = 50;
+                btn.Background = Brushes.LightYellow;
+                elMeuGrid.Children.Add(btn);
+
+            WrapPanel wrapPanel = new WrapPanel();
+                btn.Content = wrapPanel;
+
+            TextBlock txt = new TextBlock();
+                txt.Text = "Hola";
+                wrapPanel.Children.Add(txt);
+                txt.Foreground = Brushes.Red;
+
+            TextBlock txt2 = new TextBlock();
+                txt2.Text = "Mundo";
+                wrapPanel.Children.Add(txt2);
+                txt2.Foreground = Brushes.Blue;
+
+            TextBlock txt3 = new TextBlock();
+                txt3.Text = "!";
+                wrapPanel.Children.Add(txt3);
+                txt3.Foreground = Brushes.Green;
+                
+
+            
+           
+            
+
+
         }
     }
 }

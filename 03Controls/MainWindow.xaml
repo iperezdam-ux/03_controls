@@ -6,5 +6,20 @@
         xmlns:local="clr-namespace:_03Controls"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid/>
+    <Grid>
+       <!-- <Button Content="Pitxe'm" Width="100" Height="30" FontSize="15" FontFamily="Bodoni MT Poster Compressed" HorizontalAlignment="Center" VerticalAlignment="Center"/>  -->
+        <!--<Button>
+            <Button.Width>150</Button.Width>
+            <Button.Height>30</Button.Height>
+            <Button.FontSize>15</Button.FontSize>
+            <Button.Content>
+                <WrapPanel>
+                    <TextBlock Foreground="Red">Hola</TextBlock>
+                    <TextBlock Foreground="Yellow">Adeu</TextBlock>
+                    <TextBlock Foreground="Red">Manolin</TextBlock>
+                </WrapPanel>
+            </Button.Content>
+        </Button>
+        -->
+    </Grid>
 </Window>

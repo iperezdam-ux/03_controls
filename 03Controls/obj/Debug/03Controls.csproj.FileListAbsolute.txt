@@ -1,0 +1,15 @@
+C:\Users\ivan1\Desktop\DAM2\Dev Interficies\Projectes\03Controls\03Controls\bin\Debug\03Controls.exe.config
+C:\Users\ivan1\Desktop\DAM2\Dev Interficies\Projectes\03Controls\03Controls\bin\Debug\03Controls.exe
+C:\Users\ivan1\Desktop\DAM2\Dev Interficies\Projectes\03Controls\03Controls\bin\Debug\03Controls.pdb
+C:\Users\ivan1\Desktop\DAM2\Dev Interficies\Projectes\03Controls\03Controls\obj\Debug\03Controls.csproj.AssemblyReference.cache
+C:\Users\ivan1\Desktop\DAM2\Dev Interficies\Projectes\03Controls\03Controls\obj\Debug\MainWindow.g.cs
+C:\Users\ivan1\Desktop\DAM2\Dev Interficies\Projectes\03Controls\03Controls\obj\Debug\App.g.cs
+C:\Users\ivan1\Desktop\DAM2\Dev Interficies\Projectes\03Controls\03Controls\obj\Debug\03Controls_MarkupCompile.cache
+C:\Users\ivan1\Desktop\DAM2\Dev Interficies\Projectes\03Controls\03Controls\obj\Debug\03Controls_MarkupCompile.lref
+C:\Users\ivan1\Desktop\DAM2\Dev Interficies\Projectes\03Controls\03Controls\obj\Debug\MainWindow.baml
+C:\Users\ivan1\Desktop\DAM2\Dev Interficies\Projectes\03Controls\03Controls\obj\Debug\03Controls.g.resources
+C:\Users\ivan1\Desktop\DAM2\Dev Interficies\Projectes\03Controls\03Controls\obj\Debug\_03Controls.Properties.Resources.resources
+C:\Users\ivan1\Desktop\DAM2\Dev Interficies\Projectes\03Controls\03Controls\obj\Debug\03Controls.csproj.GenerateResource.cache
+C:\Users\ivan1\Desktop\DAM2\Dev Interficies\Projectes\03Controls\03Controls\obj\Debug\03Controls.csproj.CoreCompileInputs.cache
+C:\Users\ivan1\Desktop\DAM2\Dev Interficies\Projectes\03Controls\03Controls\obj\Debug\03Controls.exe
+C:\Users\ivan1\Desktop\DAM2\Dev Interficies\Projectes\03Controls\03Controls\obj\Debug\03Controls.pdb

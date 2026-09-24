@@ -50,11 +50,16 @@ namespace _03Controls
                 txt3.Text = "!";
                 wrapPanel.Children.Add(txt3);
                 txt3.Foreground = Brushes.Green;
-                
 
-            
-           
-            
+            TextBlock txt4 = new TextBlock();
+            txt4.Text = "Quim Test";
+            wrapPanel.Children.Add(txt4);
+            txt3.Foreground = Brushes.Green;
+
+
+
+
+
 
 
         }
